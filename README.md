@@ -12,8 +12,8 @@ A project that recommends jobs to users based on their skills and interests usin
 
 ## Project Structure
 
-- `Recomendation_System_tf_idf.ipynb`: Notebook implementing the TF-IDF based recommendation system.
-- `Recomendation_System_Word_Embeddings.ipynb`: Notebook implementing the word embedding-based recommendation system.
+- `Job_Recomendation_System_tf_idf.ipynb`: Notebook implementing the TF-IDF based recommendation system.
+- `Job_Recomendation_System_Word_Embeddings.ipynb`: Notebook implementing the word embedding-based recommendation system.
 
 ## How It Works
 
